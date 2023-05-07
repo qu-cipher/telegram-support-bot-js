@@ -1,0 +1,14 @@
+{
+  "name": "hidrocybersupport",
+  "version": "1.0.0",
+  "description": "this is a telegram bot for HidroCyber support",
+  "main": "main.js",
+  "scripts": {
+    "start": "node main.js"
+  },
+  "author": "AliCodes (HidroCyber)",
+  "license": "MIT",
+  "dependencies": {
+    "telegraf": "^4.12.2"
+  }
+}

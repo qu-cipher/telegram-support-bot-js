@@ -1,0 +1,3 @@
+@echo running npm... 
+
+npm run start
