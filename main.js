@@ -3,7 +3,7 @@ const bot = new Telegraf('bot_token')
 const chatId = 'admin_chatid'
 
 bot.start((ctx) => ctx.reply(`
-⚜️ The creator only official Channel: @HidroCyber`))
+⚜️ The creator only official Channel: @QuantumCipherr`))
 
 
 bot.on('message', (ctx) => {
